@@ -6,7 +6,7 @@ export default function Blog2() {
 	return (
 		<>
 
-			<section id="blog" className="section-blog-2 position-relative pt-60 pb-60">
+			{/* <section id="blog" className="section-blog-2 position-relative pt-60 pb-60">
 				<div className="container">
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center">
@@ -18,7 +18,7 @@ export default function Blog2() {
 						<h3>From Blog</h3>
 					</div>
 					<div className="row mt-8">
-						{/*prettier-ignore*/}
+						prettier-ignore
 						<div className="col-lg-4">
 							<div className="blog-card rounded-top-2 mb-lg-3 mb-md-5 mb-3">
 								<div className="blog-card__image position-relative">
@@ -78,7 +78,7 @@ export default function Blog2() {
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> */}
 
 		</>
 	)
